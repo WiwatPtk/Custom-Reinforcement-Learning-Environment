@@ -1,7 +1,7 @@
 # Custom-Reinforcement-Learning-Environment
 Designing Your Own Custom Reinforcement Learning Environment
 ## File 
-There are 3 main file
+There are 2 main file
 1. reinforcement_custom_env_medium_post : main file
 3. rl_medium : Lib install requirement
 ## Install
